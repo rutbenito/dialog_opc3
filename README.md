@@ -1,6 +1,6 @@
 # dialog_opc3
 
-A new Flutter project.
+A Flutter project with an AlertDialog.
 
 ## Getting Started
 
